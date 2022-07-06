@@ -47,9 +47,9 @@ spring:
   application: 
      name: PackageService
   datasource: 
-    url: jdbc:mysql://127.0.0.1:3306/ulearn_admin
-    username: root
-    password: '@Debanjan_1998'
+    url: jdbc:mysql://sql476.main-hosting.eu:3306/u509425513_ulearn
+    username: u509425513_ulearn
+    password: '@NIT@ulearn123'
     driverClassName: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate: 
