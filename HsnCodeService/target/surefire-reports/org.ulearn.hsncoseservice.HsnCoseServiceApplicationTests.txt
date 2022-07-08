@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: org.ulearn.hsncoseservice.HsnCoseServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.002 s <<< FAILURE! - in org.ulearn.hsncoseservice.HsnCoseServiceApplicationTests
+org.ulearn.hsncoseservice.HsnCoseServiceApplicationTests  Time elapsed: 0.999 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.ulearn.geolocationservice.GeoLocationServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 22.63 s - in org.ulearn.geolocationservice.GeoLocationServiceApplicationTests

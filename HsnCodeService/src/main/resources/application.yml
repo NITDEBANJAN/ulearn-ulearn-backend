@@ -2,9 +2,9 @@ spring:
   application: 
      name: HsnService
   datasource: 
-    url: jdbc:mysql://ulearn-mysql.cdvo6qjmkkri.ap-south-1.rds.amazonaws.com:3306/ulearn_dev_sadmin
-    username: ulearn
-    password: ULearn2121
+    url: jdbc:mysql://ulearnrds.c6naegx6vpek.us-west-2.rds.amazonaws.com:3306/ulearning_sadmin
+    username: Ulearn
+    password: NITUlearn123
   jpa:
     hibernate: 
       ddl-auto: none
@@ -49,9 +49,9 @@ spring:
   application: 
      name: HsnService
   datasource: 
-    url: jdbc:mysql://ulearn-mysql.cdvo6qjmkkri.ap-south-1.rds.amazonaws.com:3306/ulearn_dev_sadmin
-    username: ulearn
-    password: ULearn2121
+    url: jdbc:mysql://ulearnrds.c6naegx6vpek.us-west-2.rds.amazonaws.com:3306/ulearning_sadmin
+    username: Ulearn
+    password: NITUlearn123
     driverClassName: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate: 
